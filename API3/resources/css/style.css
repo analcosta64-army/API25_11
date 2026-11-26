@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(18, 40, 75)!important;
+}
+
+h1{
+    color: rgb(240, 217, 228)!important;
+}
+.card{
+background-color:rgb(67, 139, 196)!important;
+color: rgb(0, 85, 160)!important;
+border-radius: 5px;
+border: 3px solid rgb(140, 193, 233) !important;
+margin-top: 10px !important;
+}
+.btn-primary{
+    background-color: rgb(18, 40, 75)!important;
+    border: none!important;
+}
